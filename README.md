@@ -8,11 +8,6 @@ Welcome to my **Personal Portfolio**! This website is crafted to showcase my pro
 - **Responsive Layout**: Adaptable design that looks great on mobile phones, tablets, and desktops.
 - **Interactive Elements**: Engaging design elements for smooth navigation and enhanced user experience.
 
-
-## 🚀 Getting Started
-
-To view or modify this portfolio locally, follow these steps:
-   
 ## 🔧Technologies Used
 
 **HTML:** For structuring the content of the portfolio.
